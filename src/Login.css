@@ -1,0 +1,19 @@
+/** @format */
+.login {
+  background-color: #fff;
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+.login__logo {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /* padding: 20px; */
+  object-fit: contain;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+
+  /* height: 20px; */
+}
